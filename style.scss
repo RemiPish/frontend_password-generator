@@ -273,6 +273,10 @@ fieldset {
     border-color: $green;
 }
 
+.checkbox:hover{
+    border-color: $green;
+}
+
 .password-generator__option input:checked+.checkbox .check-icon {
     opacity: 1;
 }
